@@ -8,7 +8,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/time-entries")
-public class  {
+public class  TimeEntryController {
 
     private TimeEntryRepository timeEntriesRepo;
 
